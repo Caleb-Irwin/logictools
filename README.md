@@ -1,3 +1,6 @@
+#Goals of this Fork
+The goal here is to privide a wrapper for logic tools, to make it easyer to use. And register that as a package.
+
 # logictools
 
 We help to study logic solvers by providing and collecting various 
